@@ -1,3 +1,8 @@
+## <small>4.1.1 (2019-08-30)</small>
+
+
+
+
 ## 4.1.0 (2019-07-10)
 
 * docs(guides): fix create-screen import typo ([20134ab](https://github.com/akveo/react-native-ui-kitten/commit/20134ab))
